@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+pinecone-client==3.1.0
+pypdf
+python-multipart
+streamlit
+requests
+
